@@ -6,6 +6,8 @@ A minimal macOS audio player with a warm retro aesthetic. Built with SwiftUI.
   <img src="screenshot.png" width="400" alt="EchoPlayer">
 </p>
 
+[中文](README.zh.md)
+
 ## Features
 
 - **Drag & Drop** — Drop audio files directly into the player to start playing
