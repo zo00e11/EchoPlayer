@@ -8,6 +8,14 @@ A minimal macOS audio player with a warm retro aesthetic. Built with SwiftUI.
 
 [中文](README.zh.md)
 
+## Download
+
+[**Download EchoPlayer v1.0.0**](https://github.com/zo00e11/EchoPlayer/releases/download/v1.0.0/EchoPlayer-v1.0.0-macos.zip) · macOS 14.0+
+
+Unzip → drag `EchoPlayer.app` to Applications → done.
+
+> First launch: right-click the app → Open, to bypass Gatekeeper.
+
 ## Features
 
 - **Drag & Drop** — Drop audio files directly into the player to start playing
@@ -28,9 +36,9 @@ MP3 · WAV · FLAC · M4A · AAC · OGG · WMA
 ## Requirements
 
 - macOS 14.0+ (Sonoma)
-- Xcode 15+ to build from source
 
-## Build
+<details>
+<summary>Build from source</summary>
 
 ```bash
 git clone https://github.com/zo00e11/EchoPlayer.git
@@ -38,7 +46,9 @@ cd EchoPlayer
 open EchoPlayer.xcodeproj
 ```
 
-Build and run with `Cmd + R`.
+`Cmd + R` to build and run.
+
+</details>
 
 ## Project Structure
 

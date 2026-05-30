@@ -8,6 +8,14 @@
 
 [English](README.md)
 
+## 下载
+
+[**下载 EchoPlayer v1.0.0**](https://github.com/zo00e11/EchoPlayer/releases/download/v1.0.0/EchoPlayer-v1.0.0-macos.zip) · macOS 14.0+
+
+解压 → 把 `EchoPlayer.app` 拖到应用程序 → 完成。
+
+> 首次打开：右键点击应用 → 打开，绕过 Gatekeeper 安全提示。
+
 ## 功能
 
 - **拖放即播** — 直接拖音频文件到播放器，即刻播放
@@ -28,9 +36,9 @@ MP3 · WAV · FLAC · M4A · AAC · OGG · WMA
 ## 系统要求
 
 - macOS 14.0+ (Sonoma)
-- Xcode 15+（从源码编译时需要）
 
-## 从源码构建
+<details>
+<summary>从源码编译</summary>
 
 ```bash
 git clone https://github.com/zo00e11/EchoPlayer.git
@@ -39,6 +47,8 @@ open EchoPlayer.xcodeproj
 ```
 
 `Cmd + R` 编译运行。
+
+</details>
 
 ## 项目结构
 
