@@ -10,15 +10,6 @@ A minimal macOS audio player with a warm retro aesthetic. Built with SwiftUI.
 
 ## Install
 
-### Homebrew (recommended)
-
-```bash
-brew tap zo00e11/echoplayer
-brew install --cask echoplayer
-```
-
-### Manual
-
 [**Download EchoPlayer v1.0.0 (.dmg)**](https://github.com/zo00e11/EchoPlayer/releases/download/v1.0.0/EchoPlayer-v1.0.0-macos.dmg) · macOS 14.0+
 
 Open the `.dmg` → drag `EchoPlayer.app` to Applications → done.

@@ -10,15 +10,6 @@
 
 ## 安装
 
-### Homebrew（推荐）
-
-```bash
-brew tap zo00e11/echoplayer
-brew install --cask echoplayer
-```
-
-### 手动安装
-
 [**下载 EchoPlayer v1.0.0 (.dmg)**](https://github.com/zo00e11/EchoPlayer/releases/download/v1.0.0/EchoPlayer-v1.0.0-macos.dmg) · macOS 14.0+
 
 打开 `.dmg` → 把 `EchoPlayer.app` 拖到应用程序 → 完成。
