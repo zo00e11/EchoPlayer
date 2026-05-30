@@ -8,11 +8,20 @@
 
 [English](README.md)
 
-## 下载
+## 安装
 
-[**下载 EchoPlayer v1.0.0**](https://github.com/zo00e11/EchoPlayer/releases/download/v1.0.0/EchoPlayer-v1.0.0-macos.zip) · macOS 14.0+
+### Homebrew（推荐）
 
-解压 → 把 `EchoPlayer.app` 拖到应用程序 → 完成。
+```bash
+brew tap zo00e11/echoplayer
+brew install --cask echoplayer
+```
+
+### 手动安装
+
+[**下载 EchoPlayer v1.0.0 (.dmg)**](https://github.com/zo00e11/EchoPlayer/releases/download/v1.0.0/EchoPlayer-v1.0.0-macos.dmg) · macOS 14.0+
+
+打开 `.dmg` → 把 `EchoPlayer.app` 拖到应用程序 → 完成。
 
 > 首次打开：右键点击应用 → 打开，绕过 Gatekeeper 安全提示。
 
